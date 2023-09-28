@@ -4,4 +4,4 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 # Project
 
-* [Project guess number]
+* [Project_0. guess number](https://github.com/Whitepand/SF_data_science/tree/main/project_0)
